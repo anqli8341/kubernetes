@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.13
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.13.0
 MAINTAINER anqli anqli@outlook.com
