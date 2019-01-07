@@ -1,3 +1,3 @@
 FROM gcr.io/google_containers/kube-proxy-amd64:v1.13.0
-MAINTAINER angle anqli@outlook.com
+MAINTAINER anqli anqli@outlook.com
 
